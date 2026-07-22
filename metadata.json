@@ -1,0 +1,6 @@
+{
+  "name": "IEEE Student Branch - Galgotias University",
+  "description": "The official web platform of the IEEE Student Branch at Galgotias University (IEEE GU), featuring faculty advisors, student leadership, academic repository, and research collaboration initiatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
